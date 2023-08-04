@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "dsi.mobile.eld",
+      "sha256_cert_fingerprints": [
+        "9C:DB:9D:AC:4C:C7:15:DE:34:0F:96:F7:00:70:12:0F:F1:D3:E0:DF:51:6F:62:1F:00:67:BD:78:BC:AD:42:4F"
+      ]
+    }
+  }
+]
